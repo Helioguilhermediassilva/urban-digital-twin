@@ -2,10 +2,6 @@
 
 A comprehensive website showcasing a revolutionary Urban Digital Twin platform that transforms smart cities through integrated management of water, energy, and mobility with predictive intelligence and citizen engagement.
 
-## 🌐 Live Demo
-
-**Website:** [https://bhkinkaf.manus.space](https://bhkinkaf.manus.space)
-
 ## 🚀 Features
 
 ### Core Functionalities
